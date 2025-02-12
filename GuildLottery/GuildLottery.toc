@@ -1,0 +1,6 @@
+## Interface: 11404
+## Title: Guild Lottery
+## Author: Drackks
+## Version: 1.0
+## Notes: Tracks guild lottery tickets from in-game mail and rolls a winner.
+GuildLottery.lua
